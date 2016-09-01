@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Aokashi Home Page(仮設)</title>
+    <link>http://aokashi.github.io/about.html</link>
+    <description>Recent content in Abouts on Aokashi Home Page(仮設)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <atom:link href="http://aokashi.github.io/about.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aokashi Homeについて</title>
+      <link>http://aokashi.github.io/about.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://aokashi.github.io/about.html</guid>
+      <description>
+
+&lt;p&gt;Aokashi HomeはWebの技術を利用したゲームと、そのゲームで役立つ素材を取り扱うサイトです。&lt;/p&gt;
+
+&lt;h1 id=&#34;aokashiについて&#34;&gt;Aokashiについて&lt;/h1&gt;
+
+&lt;p&gt;Aokashiはこのサイト、Aokashi Homeの管理や制作を行っています。詳細は&lt;a href=&#34;author.md&#34;&gt;Aokashiについて&lt;/a&gt;を参照。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aokashiについて</title>
+      <link>http://aokashi.github.io/about/author.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://aokashi.github.io/about/author.html</guid>
+      <description>
+
+&lt;p&gt;当サイトの管理や制作を行う、Aokashiに関する情報です。&lt;/p&gt;
+
+&lt;h1 id=&#34;基本的な情報&#34;&gt;基本的な情報&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;年齢：19&lt;/li&gt;
+&lt;li&gt;居住地：埼玉県 ふじみ野市&lt;/li&gt;
+&lt;li&gt;現在大学生&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
