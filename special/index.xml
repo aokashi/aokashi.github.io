@@ -281,6 +281,10 @@
       <guid>http://aokashi.github.io/special/sanninn_trip.html</guid>
       <description>
 
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../&#34;&gt;特集に戻る&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;img src=&#34;http://aokashi.github.io/images/sanninn_trip/map.png&#34; alt=&#34;山陰本線走破の旅&#34; width=&#34;640&#34; height=&#34;360&#34;&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;日記&#34;&gt;日記&lt;/h1&gt;
@@ -958,7 +962,9 @@
       
       <guid>http://aokashi.github.io/special.html</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;sanninn_trip/&#34;&gt;2016年山陰旅行&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;sanninn_trip/&#34;&gt;2016年山陰旅行&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;../&#34;&gt;戻る&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
