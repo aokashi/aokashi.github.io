@@ -1,0 +1,5 @@
+baseurl = "http://aokashi.github.io/"
+UglyURLs = true
+languageCode = "ja-jp"
+title = "Aokashi Home Page(仮設)"
+theme = "plain"
