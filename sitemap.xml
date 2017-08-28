@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://aokashi.github.io/</loc>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://aokashi.github.io/special/sanninn_trip/first.html</loc>
@@ -26,15 +23,27 @@
   </url>
   
   <url>
-    <loc>http://aokashi.github.io/about.html</loc>
+    <loc>http://aokashi.github.io/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://aokashi.github.io/special/sanninn_trip.html</loc>
+    <loc>http://aokashi.github.io/special/sanninn_trip/</loc>
   </url>
   
   <url>
-    <loc>http://aokashi.github.io/about/author.html</loc>
+    <loc>http://aokashi.github.io/categories.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aokashi.github.io/special.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aokashi.github.io/tags.html</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -54,7 +63,7 @@
   </url>
   
   <url>
-    <loc>http://aokashi.github.io/special.html</loc>
+    <loc>http://aokashi.github.io/special/</loc>
   </url>
   
 </urlset>
